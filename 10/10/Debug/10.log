@@ -1,0 +1,3 @@
+﻿  10.cpp
+d:\homework 2 adv\10\10\10.cpp(4): warning C4326: возвращаемый тип "main" должен быть "int", а не "long"
+  10.vcxproj -> D:\Homework 2 adv\10\Debug\10.exe
